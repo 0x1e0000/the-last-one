@@ -10,12 +10,6 @@ The game must contain:
 
 > BattleGrounds game
 
-> Custom characters.
-
 > Missions
 
-> New Electronic battery powered car
-
 > Team Up Squad mode
-
-> Drone Store
