@@ -6,7 +6,7 @@ Game Designed for community above 18
 
 The game must contain:
 
-> Bots (Artificial Intelligence & Machine learning)
+> Bots (AI & Machine learning)
 
 > BattleGrounds game
 
